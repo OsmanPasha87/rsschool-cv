@@ -24,3 +24,13 @@ function multiply(a, b){
 }
 ```
 ***
+## 6. Work experience: ##
+I don't have experience in programmingю
+***
+## 7. Education: ##
+I have a high education. I'm finished BRU in Mogilev in 2009. And i got speciality engineer.
+***
+## 8. English: ##
+My English level from [British Council](https://learnenglish.britishcouncil.org/online-english-level-test)
+
+![](https://d.radikal.ru/d31/2109/b1/56c58bfbb13f.jpg)
